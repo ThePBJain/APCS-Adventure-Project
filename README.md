@@ -12,7 +12,7 @@ id is formatted as follows:
 
 - [level]-[node]-[count]
 
-title of each event file will be "Event_" plus the above
+Title of each event file will be "Event_" plus the above
 
 Example:
 - [Event_3-4-3.txt] //file name
@@ -27,6 +27,7 @@ Example:
 - 3-4-7$
 - go back home$
 - 3-5-1$
+
 Each MapMode object will call it's own list of node coordinates. 
 MapModes are labeled by level,
 - EventNodes by node,
