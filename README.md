@@ -11,7 +11,9 @@ Each Event has it's own file, with id, title, body, and choices each with their 
 id is formatted as follows: 
 
 -[level]-[node]-[count]
+
 title of each event file will be "Event_" plus the above
+
 Example:
 -[Event_3-4-3.txt] //file name
 -3-4-3$ //id
