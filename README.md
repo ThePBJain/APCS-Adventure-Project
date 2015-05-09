@@ -2,6 +2,7 @@
 	This is our APCS Game.
 
 HOW TO WORK THIS:
+
 An Event is a single segment of text with it's resulting choices
 Each Event has it's own file, with id, title, body, and choices each with their destination ids
 	choices with id of a different node will end the current event, id 99-99-99 will end the event chain.
